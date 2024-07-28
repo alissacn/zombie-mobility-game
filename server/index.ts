@@ -32,7 +32,7 @@ app.get('/api/test-connection', async (req: Request, res: Response) => {
 });
 
 app.get('/api/character/:id', getCharacterById);
-app.get('/api/all/character', getAllCharacter);
+app.get('/api/character', getAllCharacter);
 app.get('/api/character/:characterId/items', getItemsById);
 
 
