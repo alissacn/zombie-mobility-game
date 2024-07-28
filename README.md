@@ -23,7 +23,7 @@ The protagonist is Jim, a teenager in a wheelchair navigating through a post-apo
 - **Description:** Returns the characteristics of the protagonist using the ID as a parameter.<BR>
 
 **Get All Characters:**
-- **URL:** `/api/all/character`
+- **URL:** `/api/character`
 - **Method:** `GET`
 - **Description:** Returns a list of all characters in the database. <BR>
 
