@@ -15,3 +15,19 @@ The protagonist is Jim, a teenager in a wheelchair navigating through a post-apo
 - **Database:** MySQL (using Docker for setup)
 - **Database Management:** DBeaver
 - **To test the endpoints:** Postman
+
+## Endpoints
+**Get Character by ID:** 
+- **URL:** `/api/character/:id`
+- **Method:** `GET`
+- **Description:** Returns the characteristics of the protagonist using the ID as a parameter.<BR>
+
+**Get All Characters:**
+- **URL:** `/api/all/character`
+- **Method:** `GET`
+- **Description:** Returns a list of all characters in the database. <BR>
+
+**Get Items by Character ID:**
+- **URL:** `/api/character/:characterId/items`
+- **Method:** `GET`
+- **Description:** Returns all items associated with the given character ID.
