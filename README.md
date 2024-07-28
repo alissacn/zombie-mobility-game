@@ -1,4 +1,5 @@
-# Zombie Mobility Game - Mentorship Task
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/3a64968f-efd1-4fe0-b9d8-da6d2781f507">
+
 
 ## Overview
 
