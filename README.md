@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a conceptual design for a game named "Zombie Mobility" as part of a mentorship task with King and Thu. The main objective was to describe the protagonist and implement a basic backend infrastructure to manage the game's characters.
+This project is a conceptual design for a game named "Zombie Mobility" as part of a mentorship task with King & THU. The main objective was to describe the protagonist and implement a basic backend infrastructure to manage the game's characters.
 
 ## Protagonist
 
