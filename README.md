@@ -3,7 +3,9 @@
 
 ## Overview
 
-This project is a conceptual design for a game named "Zombie Mobility" as part of a mentorship task with King & THU. The main objective was to describe the protagonist and implement a basic backend infrastructure to manage the game's characters.
+This project is a conceptual design for a game named "Zombie Mobility" as part of a mentorship task with King & Trojan Horse was a Unicorn. The main objective of this game is to create a proposal for a video game that promotes diversity and inclusion, encouraging players to understand and appreciate cultural, social, physical, and psychological differences.
+
+For the first task, I described the protagonist and implemented a basic backend infrastructure to manage the game's characters.
 
 ## Protagonist
 
